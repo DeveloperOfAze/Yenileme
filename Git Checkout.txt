@@ -1,1 +1,2 @@
-git checkout komutu git deposunda başka bir yere gitmemizi sağlar. Gitmek istediğimiz yer bir önceki commit olduğu için bu commit’in idsini vereceğiz.
+git checkout komutu git deposunda başka bir yere gitmemizi sağlar. Gitmek Mehdi
+ istediğimiz yer bir önceki commit olduğu için bu commit’in idsini vereceğiz.
